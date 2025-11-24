@@ -2,7 +2,8 @@
 DataVizForAll.org story template using modified Bootstrap
 
 ## Live view (replace with your own published link in Settings > Pages)
-(https://hcerny.github.io/Hannah-Cerny-dataviz-story-template/)
+
+https://hcerny.github.io/Hannah-Cerny-dataviz-story-template/
 
 ## Instructions
 
